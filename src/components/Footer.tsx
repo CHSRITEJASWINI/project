@@ -28,10 +28,10 @@ const Footer = () => {
             className="border-t border-gray-800 pt-8"
           >
             <p className="text-gray-400 flex items-center justify-center gap-2">
-              Made with <Heart size={16} className="text-red-500" /> and <Code size={16} className="text-blue-400" /> by Sri Tejaswini Chundru
+              Made with <Heart size={16} className="text-red-500" /> and <Code size={16} className="text-blue-400" /> by Tejuuuuu
             </p>
             <p className="text-gray-500 text-sm mt-2">
-              © 2024 All rights reserved.
+              © 2025 All rights reserved.
             </p>
           </motion.div>
         </div>
