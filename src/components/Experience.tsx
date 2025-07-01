@@ -11,7 +11,7 @@ const Experience = () => {
       location: 'Remote',
       description:
         'Gained experience in fundamentals of Artificial Intelligence, Machine Learning, and Data Science',
-      skills: ['AI/ML'],
+      skills: ['AI/ML/DS'],
     },
   ];
 
