@@ -42,7 +42,18 @@ const Projects = () => {
       'https://images.pexels.com/photos/3184465/pexels-photo-3184465.jpeg?auto=compress&cs=tinysrgb&w=800',
     github: 'https://github.com/yourusername/employee-management-system',
     demo: 'https://replit.com/@yourusername/employee-management-demo' // optional
-  }
+  },
+  {
+  title: 'Restaurant Management Page [Azure Deployment]',
+  description:
+    'A basic restaurant management interface built with HTML, CSS, and JavaScript. Deployed on Microsoft Azure after learning Azure Fundamentals (AZ-900).',
+  technologies: ['HTML', 'CSS', 'JavaScript', 'Azure'],
+  image:
+    'https://images.pexels.com/photos/262978/pexels-photo-262978.jpeg?auto=compress&cs=tinysrgb&w=800',
+  github: 'https://github.com/yourusername/restaurant-management',
+  demo: 'https://your-azure-app-url.azurewebsites.net'
+}
+
   ];
 
   return (
