@@ -32,7 +32,17 @@ const Projects = () => {
         'https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg?auto=compress&cs=tinysrgb&w=800', // Food Waste image
       github: 'https://github.com/yourusername/food-waste-project',
       demo: 'https://food-waste-demo.vercel.app'
-    }
+    },
+     {
+    title: 'Employee Management System [Python]',
+    description:
+      'A command-line Python application to perform CRUD operations (Create, Read, Update, Delete) on employee records. It uses file handling and object-oriented programming.',
+    technologies: ['Python', 'File Handling', 'OOP', 'CRUD'],
+    image:
+      'https://images.pexels.com/photos/3184465/pexels-photo-3184465.jpeg?auto=compress&cs=tinysrgb&w=800',
+    github: 'https://github.com/yourusername/employee-management-system',
+    demo: 'https://replit.com/@yourusername/employee-management-demo' // optional
+  }
   ];
 
   return (
