@@ -8,6 +8,7 @@ import Skills from './components/Skills';
 import Certifications from './components/Certifications';
 import Contact from './components/Contact'; // ✅ use this one
 import Footer from './components/Footer';
+import Workshops from './components/workshops';
 
 function App() {
   return (
@@ -18,6 +19,7 @@ function App() {
         <About />
         <Experience />
         <Projects />
+        <Workshops/>
         <Skills />
         <Certifications />
         <Contact /> {/* ✅ This is the section with full form */}

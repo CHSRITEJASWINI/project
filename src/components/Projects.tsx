@@ -52,7 +52,26 @@ const Projects = () => {
     'https://images.pexels.com/photos/262978/pexels-photo-262978.jpeg?auto=compress&cs=tinysrgb&w=800',
   github: 'https://github.com/yourusername/restaurant-management',
   demo: 'https://your-azure-app-url.azurewebsites.net'
+},
+{
+  title: 'Student Management System [Python]',
+  description:
+    'A command-line Python project that manages student records including adding, updating, deleting, and viewing details. It uses file handling and OOP principles.',
+  technologies: ['Python', 'OOP', 'File Handling', 'CRUD'],
+  image: 'https://images.pexels.com/photos/4145190/pexels-photo-4145190.jpeg?auto=compress&cs=tinysrgb&w=800',
+  github: 'https://github.com/yourusername/student-management-system',
+  demo: 'https://replit.com/@yourusername/student-management-demo'
+},{
+  title: 'Contact Book [Python]',
+  description:
+    'A simple contact book application built using Python. It allows users to add new contacts, view all contacts, and see detailed information of each contact. Uses file handling and object-oriented concepts.',
+  technologies: ['Python', 'File Handling', 'OOP', 'CLI'],
+  image: 'https://images.pexels.com/photos/4968391/pexels-photo-4968391.jpeg?auto=compress&cs=tinysrgb&w=800',
+  github: 'https://github.com/yourusername/contact-book-python',
+  demo: 'https://replit.com/@yourusername/contact-book-demo'
 }
+
+
 
   ];
 

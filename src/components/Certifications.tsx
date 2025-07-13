@@ -57,7 +57,14 @@ const Certifications = () => {
       issuer: 'Infosys Springboard',
       date: '2025-Jan',
       description: 'Semantic HTML5, media support, and form enhancements for modern web development.'
-    }
+    },
+    {
+    title: 'Introduction to Data Science',
+    issuer: 'Infosys Springboard',
+    date: '2025-Apr',
+    description: 'Covers basics of data science including statistics, data exploration, and data visualization techniques.'
+  },
+
   ];
 
   return (
@@ -118,5 +125,4 @@ const Certifications = () => {
     </section>
   );
 };
-
 export default Certifications;
