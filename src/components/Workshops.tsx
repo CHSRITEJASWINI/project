@@ -10,19 +10,19 @@ const workshops = [
     description:
       'Participated in a 1-hour hands-on online workshop designed to empower participants to create intelligent, autonomous AI agents using no-code/low-code tools.',
   },
-  {
-    title: '3-Day Web Designing Workshop',
-    issuer: 'Ramachandra College of Engineering',
-    date: 'March 2023',
-    description:
-      'Attended a 3-day intensive workshop focused on HTML, CSS, and responsive design principles using modern web development tools.',
-  },
+  
   {
     title: 'International Workshop on Data Science using Python',
     issuer: 'BrainoVision',
     date: 'Feb 2024',
     description:
       'Participated in an international-level workshop that focused on key concepts in Data Science, data handling with Python, and real-world project insights.',
+  },{
+    title: '3-Day Web Designing Workshop',
+    issuer: 'Ramachandra College of Engineering',
+    date: 'March 2023',
+    description:
+      'Attended a 3-day intensive workshop focused on HTML, CSS, and responsive design principles using modern web development tools.',
   }
 ];
 
